@@ -1,4 +1,4 @@
-# CLEAN CITY – KCS Group
+# CLEAN CITY – Test Strategy
 
 ## GROUP NAME
 **KCS**
